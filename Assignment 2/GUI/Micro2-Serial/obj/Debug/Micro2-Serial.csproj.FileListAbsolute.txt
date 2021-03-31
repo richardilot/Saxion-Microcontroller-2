@@ -1,0 +1,10 @@
+D:\Files\Assignment\School\MICROCONTROLLER 2\Assignment 2\GUI\Micro2-Serial\bin\Debug\Micro2-Serial.exe.config
+D:\Files\Assignment\School\MICROCONTROLLER 2\Assignment 2\GUI\Micro2-Serial\bin\Debug\Micro2-Serial.exe
+D:\Files\Assignment\School\MICROCONTROLLER 2\Assignment 2\GUI\Micro2-Serial\bin\Debug\Micro2-Serial.pdb
+D:\Files\Assignment\School\MICROCONTROLLER 2\Assignment 2\GUI\Micro2-Serial\obj\Debug\Micro2-Serial.csprojAssemblyReference.cache
+D:\Files\Assignment\School\MICROCONTROLLER 2\Assignment 2\GUI\Micro2-Serial\obj\Debug\Micro2_Serial.Form1.resources
+D:\Files\Assignment\School\MICROCONTROLLER 2\Assignment 2\GUI\Micro2-Serial\obj\Debug\Micro2_Serial.Properties.Resources.resources
+D:\Files\Assignment\School\MICROCONTROLLER 2\Assignment 2\GUI\Micro2-Serial\obj\Debug\Micro2-Serial.csproj.GenerateResource.cache
+D:\Files\Assignment\School\MICROCONTROLLER 2\Assignment 2\GUI\Micro2-Serial\obj\Debug\Micro2-Serial.csproj.CoreCompileInputs.cache
+D:\Files\Assignment\School\MICROCONTROLLER 2\Assignment 2\GUI\Micro2-Serial\obj\Debug\Micro2-Serial.exe
+D:\Files\Assignment\School\MICROCONTROLLER 2\Assignment 2\GUI\Micro2-Serial\obj\Debug\Micro2-Serial.pdb
